@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -6,7 +6,6 @@
+     <title>Document</title>
+ </head>
+ <body>
+-    aici sunt chestii random     das
+     aici sunt chestii random     das si aici ce estegi
+ </body>
+ </html>
+\ No newline at end of file
